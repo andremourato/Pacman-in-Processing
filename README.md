@@ -34,7 +34,3 @@ Credits:
 
 All sounds (.wav files), the background image and all fonts used, were downloaded from: http://www.classicgaming.cc/classics/pac-man/
 
-Personal Note:
-
-I'm still a beginner in programming so please excuse any bugs that you may come across. Feel free to share them with me. :D
-André Mourato
