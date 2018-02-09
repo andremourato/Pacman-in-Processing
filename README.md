@@ -23,8 +23,8 @@ Godmode: This ability is activated when you eat the purple egg. Just like the Sp
 
 Controls:
 
-Up Arrow: (well, you guessed it...) Pacman moves Up;
-Down Arrow: Pacman moves Down;
+Up Arrow: Pacman moves Up;
+Down Arrow: (well, you guessed it...) Pacman moves Down;
 Right Arrow: Pacman moves to the Right;
 Left Arrow: Pacman move to the Left;
 'm' button: Turn the sound ON/OFF;
