@@ -17,18 +17,18 @@ You may eat the Specials Eggs which are eggs from different colors, that will gr
 
 ## Abilities:
 
-Invert: Unlike other abilities, this one is toggled when you touch a red egg. It inverts the trajectory of the red and blue ghost and the map turns red.
-SpeedUp: This ability is activated when you eat the green egg. The whole game turns fast-paced temporarily. Pacman gains super-speed, just like the ghosts.
-Godmode: This ability is activated when you eat the purple egg. Just like the SpeedUp event, this is a timed ability. Pacman will become temporarily invulnerable, being able to clip through ghosts (without dying) while it's in Godmode.
+Invert: Unlike other abilities, this one is toggled when you touch a red egg. It inverts the trajectory of the red and blue ghost and the map turns red.  
+SpeedUp: This ability is activated when you eat the green egg. The whole game turns fast-paced temporarily. Pacman gains super-speed, just like the ghosts.  
+Godmode: This ability is activated when you eat the purple egg. Just like the SpeedUp event, this is a timed ability. Pacman will become temporarily invulnerable, being able to clip through ghosts (without dying) while it's in Godmode.  
 
 ## Controls:
 
-Up Arrow: Pacman moves Up;
-Down Arrow: (well, you guessed it...) Pacman moves Down;
-Right Arrow: Pacman moves to the Right;
-Left Arrow: Pacman move to the Left;
-'m' button: Turn the sound ON/OFF;
-'Spacebar': Pauses the game;
+Up Arrow: Pacman moves Up;  
+Down Arrow: (well, you guessed it...) Pacman moves Down;  
+Right Arrow: Pacman moves to the Right;  
+Left Arrow: Pacman move to the Left;  
+'m' button: Turn the sound ON/OFF;  
+'Spacebar': Pauses the game;  
 
 ## Screenshots:
 ![ready_screen](https://user-images.githubusercontent.com/23279460/42638406-7703d4d8-85e5-11e8-96c4-5b384908e4d5.png)
