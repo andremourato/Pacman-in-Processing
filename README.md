@@ -1,11 +1,6 @@
 # Pacman-in-Processing
 A simple custom version of Pacman developed in Processing.
 
-## Developed by:
-
-- André Ribeiro Martins Marques Mourato
-- José Diogo Xavier Monteiro
-
 ## Introduction
 
 This is a custom version of Pacman, with major changes in terms of gameplay. 
